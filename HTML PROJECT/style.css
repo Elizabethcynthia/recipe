@@ -1,0 +1,47 @@
+body{
+    height: 100px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2px 20px;
+    box-shadow: 2px 2px 2px 1px rgba(0, green, blue, alpha);
+}
+ul{list-style: none;
+}
+header h1 {
+    font-size: 32px;
+} 
+
+header h1 span{
+    color: orange;
+}
+.navbar-links{
+    color: orange;
+}
+.nav-links ul{
+    display: flex;
+    gap: 28px;
+}
+a{
+    color: black;
+}
+.homepage{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_oNciqO3SCY33DCxiW8vGYWVKMlm2JCKNA&usqp=CAU);
+    background-position: center;
+    background-size: cover;
+    height: 90vh;
+    flex-direction: column;
+    color: rgb(247, 9, 167);
+}
+.homebuttons .order-1{
+    background-color: orange;
+    color: white;
+}
+.homebuttons .order-2:{
+    border-color: orange;
+}
+.cynthia{
+    color: orange;
+}

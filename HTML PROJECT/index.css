@@ -1,0 +1,23 @@
+body{
+    background: rgb(162, 156, 167);
+    height: 100vh;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbUUL0efr0lldgbv0j79B2pnm0BUW2-CT1yQ&usqp=CAU);
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-image: url(https://www.bing.com/th?id=OIP.6k9aSv5NodmYpBDIHmebygHaIQ&w=146&h=163&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2);
+    background-size: contain;
+    background-attachment: fixed;
+    padding: 20px 30px;
+       }
+    h3{
+        border-style: dotted;
+        border-color: black;
+        border-width: thin;
+        padding-top: 20px;
+        padding-left: 20px;
+        padding-bottom: 20px;
+        padding-right: 20px;
+    }
+    a{
+    color: rgb(11, 11, 243);
+}
